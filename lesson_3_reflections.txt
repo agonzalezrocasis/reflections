@@ -1,0 +1,5 @@
+When would you want to create a remote repository rather than keeping all your work local?
+
+When I am the only collaborator in my own project there's no reason to create a remote repository because nobody is gonna make changes
+in my project, but on the other hand, if there's one or more people who is collaborating with me I have to create a remote repository as
+I want to keep up the good work and leverage all the advantages that Git & Github offer us by using their tools.
